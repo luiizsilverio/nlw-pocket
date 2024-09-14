@@ -48,7 +48,7 @@ $ npm run dev
 ```
 
 ## :camera_flash: Screenshots
-![](https://github.com/luiizsilverio/nlw-pocket/tree/main/web/src/assets/in-orbit.gif)
+![](https://github.com/luiizsilverio/nlw-pocket/blob/main/web/src/assets/in-orbit.gif)
 
 
 ## :email: Contato
